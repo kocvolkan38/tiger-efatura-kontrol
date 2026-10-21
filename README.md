@@ -1,6 +1,6 @@
 # Logo Tiger – e-Fatura Mutabakat Aracı (Excel / VBA)
 
-Logo Tiger ERP'ye kaydedilmiş faturalar ile Logo'nun e-Fatura onay tablosuna (`APPROVAL`) düşen gelen/giden e-faturaları tek ekranda yan yana listeleyen, fatura numarası üzerinden eşleştiren ve tutar farklarını, işlenmemiş faturaları ve reddedilen belgeleri gösteren makrolu Excel çalışma kitabı.
+Logo Tiger ERP'ye kaydedilmiş faturalar ile Logo'nun e-Fatura tablosuna (`APPROVAL`) düşen gelen/giden e-faturaları tek ekranda yan yana listeleyen, fatura numarası üzerinden eşleştiren ve tutar farklarını, işlenmemiş faturaları ve reddedilen belgeleri gösteren makrolu Excel çalışma kitabı.
 
 Ay sonu kapanışlarında "e-Fatura portalına düşen her fatura Logo'ya işlendi mi, tutarlar tutuyor mu?" sorusunu birkaç saniyede yanıtlamak için hazırlanmıştır.
 
@@ -33,7 +33,7 @@ Ay sonu kapanışlarında "e-Fatura portalına düşen her fatura Logo'ya işlen
 
 ## Kurulum
 
-1. [Releases](../../releases) bölümünden son sürüm `Fatura_Sorgulama_VK.xlsm` dosyasını indirin.
+1. [Releases](../../releases) bölümünden son sürüm `vk_faturasorgulama_v1.0.xlsm` dosyasını indirin.
 2. Dosyaya sağ tıklayın → **Özellikler** → alttaki **Engellemeyi kaldır** kutusunu işaretleyin → **Tamam**.
    (İnternetten indirilen dosyalarda Windows makroları varsayılan olarak engeller.)
 3. Dosyayı açın ve sarı çubukta **İçeriği Etkinleştir**'e tıklayın.
