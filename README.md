@@ -1,4 +1,4 @@
-# Logo Tiger – e-Fatura Mutabakat Aracı (Excel / VBA)
+# Logo Tiger – e-Fatura Aracı (Excel / VBA)
 
 Logo Tiger ERP'ye kaydedilmiş faturalar ile Logo'nun e-Fatura tablosuna (`APPROVAL`) düşen gelen/giden e-faturaları tek ekranda yan yana listeleyen, fatura numarası üzerinden eşleştiren ve tutar farklarını, işlenmemiş faturaları ve reddedilen belgeleri gösteren makrolu Excel çalışma kitabı.
 
