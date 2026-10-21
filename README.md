@@ -2,6 +2,8 @@
 
 Logo Tiger ERP'ye kaydedilmiş faturalar ile Logo'nun e-Fatura tablosuna (`APPROVAL`) düşen gelen/giden e-faturaları tek ekranda yan yana listeleyen, fatura numarası üzerinden eşleştiren ve tutar farklarını, işlenmemiş faturaları ve reddedilen belgeleri gösteren makrolu Excel çalışma kitabı.
 
+NOT: Tiger'da "e-fatura al" çalıştırdıktan sonra raporu kullanabilirsiniz. Aksi takdirde güncel veri gelmez. E-Fatura bilgilerini Tiger veritabanından okur.
+
 Ay sonu kapanışlarında "e-Fatura portalına düşen her fatura Logo'ya işlendi mi, tutarlar tutuyor mu?" sorusunu birkaç saniyede yanıtlamak için hazırlanmıştır.
 
 ---
